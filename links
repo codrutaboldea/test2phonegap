@@ -1,0 +1,38 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/cssx" href="css.css"/>
+</head>
+<body>
+<div id="tot">
+	<div id="header">
+	</div>
+	<div id="menu">
+		<ul>
+			<li><a href="index.html"> Acasa </a></li>
+			<li><a href="despre_noi.html"> Despre noi </a></li>
+			<li><a href="stiri.html"> Stiri </a></li>
+			<li><a href="contact.html"> Contact </a></li>
+			<li><a href="#"> Links </a></li>
+		</ul>
+	</div>
+	<div id="continut">
+		<h1> Link-uri utile</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ullamcorper augue ut ligula feugiat, eget ultricies elit tincidunt. Aliquam ac velit sit amet eros tincidunt sagittis. Donec bibendum fringilla ligula ut luctus. Duis venenatis felis vel purus auctor placerat. Curabitur a magna magna. Donec dictum nunc at nisi pretium blandit. Duis mattis mollis nisl. Nulla lacinia quis leo ut pretium. Sed sagittis lectus ut justo tempor, sit amet dignissim lorem ultricies. Quisque mattis nec magna sit amet iaculis. Ut ut feugiat leo, sit amet suscipit augue. Proin feugiat libero nisl, sit amet porttitor metus pulvinar sed. Mauris eget felis tortor. Nulla iaculis interdum dui quis porttitor. Fusce condimentum diam non libero pellentesque convallis.
+		</p>
+		<iframe width="640" height="360" src="http://www.youtube.com/embed/RnKVv8Lp_xU" frameborder="0" allowfullscreen></iframe>
+		<p>Proin a felis accumsan, posuere massa ac, lobortis nulla. Proin odio risus, consectetur nec urna ac, feugiat hendrerit orci. Nullam mollis gravida purus eget pellentesque. Vestibulum congue, nunc a varius lobortis, dolor nibh aliquam ipsum, a molestie nisi lacus in magna. Cras ut est sagittis, feugiat urna vitae, laoreet felis. Etiam fringilla turpis vel elit pulvinar eleifend. Sed interdum lacus pretium blandit ullamcorper. Vestibulum a tortor a metus feugiat cursus. Aenean fermentum sollicitudin est, non ultrices dolor rutrum ut. Proin tristique sem ut velit volutpat fermentum et id dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur scelerisque, purus a convallis tempus, nunc sapien dictum mi, ut rhoncus justo mi non ipsum. Sed tristique quam metus, nec porttitor elit iaculis eget
+		</p>
+		<p>Suspendisse ipsum urna, bibendum non blandit non, imperdiet egestas nulla. Nam feugiat leo lorem, at aliquam metus venenatis vel. Nunc at sem mauris. Maecenas nisl enim, ultricies vitae felis id, volutpat dictum massa. Vestibulum iaculis, nisl a euismod sagittis, est nunc pellentesque nunc, ac venenatis arcu erat eu justo. Nam eleifend vehicula tortor, vitae convallis odio rhoncus facilisis. Integer id pulvinar turpis. Duis ut velit id enim pellentesque ornare id sit amet nibh. Nunc bibendum, libero vitae semper tempor, leo augue suscipit orci, quis semper odio massa vel urna. Phasellus quis velit lacinia, tempor tellus at, porta ligula. Aliquam auctor ligula rhoncus, ultricies dui id, cursus velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+		</p>
+		<p>Sed aliquet est quis semper tincidunt. Mauris eros sapien, iaculis eget porttitor id, sollicitudin eu arcu. Morbi scelerisque nunc id fringilla pulvinar. Fusce quis lectus nibh. Quisque vel dolor ornare, varius ante vitae, feugiat quam. Proin nec ante dictum, vestibulum lorem sed, dignissim dolor. Nullam at vulputate felis. Aenean ornare ligula sapien, sed vulputate libero pharetra sit amet. Vestibulum a purus magna. Quisque massa tortor, hendrerit sed lacus nec, rhoncus pellentesque quam. Sed sit amet congue arcu, non pulvinar diam. Proin at hendrerit dolor. Quisque consectetur auctor ornare. Nam tempor vehicula felis a pulvinar.
+		</p>
+		<p>Vestibulum fermentum tristique vestibulum. Integer sapien sapien, pharetra id viverra ac, faucibus euismod est. Nunc interdum convallis tortor. Aenean ornare felis ante, euismod eleifend velit pellentesque sed. Ut nec luctus nibh. Proin facilisis consequat nisl in faucibus. Curabitur a tortor id tellus vulputate tincidunt non id ligula.
+		</p>
+	</div>
+	<div id="footer"> <center><span> Copyright &copy; 2014 | F&#259; parte din societatea
+	informa&#355;ionala</span></center>
+	</div>
+	
+</div>
+</body>
+</html>
