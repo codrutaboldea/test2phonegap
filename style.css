@@ -22,10 +22,9 @@ body{
 	}
 	.titlu_cap{
 		font-family:"Times New Roman",sans-serif;
-		font-size:30px;
+		font-size:10px;
 		color:green;
-		top:30px;
-		left:10px;
+	
 		position:relative;
 	}
 	#continut{
